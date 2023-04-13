@@ -1,6 +1,6 @@
 ![Header](img/header.jpg)
 
-Hi, I'm Vincent Hoogendoorn (aka VincentH.NET)
+Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm currently working as:
 - Independent Tech Lead, Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
 - Technology Director at [Applicita](https://Applicita.com)
 
