@@ -7,7 +7,7 @@ Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm currently working as:
 My passion is to improve the .NET developer productivity & experience.<br />
 Current focus: Full stack C# with Microsoft Orleans and/or C# Markup
 
-I'm author of:
+I'm the author of:
 - [Modern.CSharp.Templates](https://github.com/Applicita/Modern.CSharp.Templates)<br />
   A toolkit of modern dotnet new templates for C# 11, .NET 7, Microsoft Orleans 7, Windows App SDK and Uno Platform
 - [Orleans.Multiservice](https://github.com/Applicita/Orleans.Multiservice)<br />
