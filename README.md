@@ -1,8 +1,8 @@
 ![Header](img/header.jpg)
 
 Hi, I'm Vincent Hoogendoorn (aka VincentH.NET)
-- Independent Architect & Software Engineer at InnoWvate.NET
-- Technology Director at Applicita
+- Independent Tech Lead, Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
+- Technology Director at [Applicita](https://Applicita.com)
 
 My passion is to improve the .NET developer productivity & experience.
 
@@ -21,3 +21,13 @@ Author of:
   Build .NET browser / native UI in declarative C#; enjoy a Flutter-like UI development experience with .NET Hot Reload and the main .NET UI frameworks (Windows App SDK, Uno Platform, WPF - coming: Maui, AvaloniaUI, possibly Blazor)
 - [Xamarin.CommunityToolkit.Markup](https://www.nuget.org/packages/Xamarin.CommunityToolkit.Markup) (also ported to [CommunityToolkit.Maui.Markup](https://www.nuget.org/packages/CommunityToolkit.Maui.Markup))<br />
   A set of fluent helper methods and classes to simplify building declarative Xamarin Forms / .NET MAUI user interfaces in C#. Aka as **C# Markup 1**, which I initially contributed to the Microsoft Xamarin Forms product itself [in version 4.6](https://github.com/VincentH-Net/CSharpForMarkup/tree/csharpformarkup1-archive#csharpformarkup-is-incorporated-in-xamarin-forms-46)
+
+Services:
+- **Microsoft Technology Direction**<br />
+  Define technology strategy, provide tools, practices and guidance to elevate and scale the technological delivery capabilities of software development organizations
+- **Cloud Applications**<br />
+  Architect / build / modernize scalable cloud applications with Microsoft Orleans and Azure
+- **Frontends**<br />
+  Build / modernize full stack C# .NET applications, for browser / windows / mac / linux / iOS / android
+
+
