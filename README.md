@@ -4,8 +4,7 @@ Hi, I'm Vincent Hoogendoorn (aka VincentH.NET)
 - Independent Tech Lead, Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
 - Technology Director at [Applicita](https://Applicita.com)
 
-My passion is to improve the .NET developer productivity & experience.
-
+My passion is to improve the .NET developer productivity & experience.<br />
 Current focus: Full stack C# with Microsoft Orleans and/or C# Markup
 
 Author of:
