@@ -1,7 +1,7 @@
 ![Header](img/header.jpg)
 
 Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm currently working as:
-- Independent Tech Lead, Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
+- Independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
 - Technology Director at [Applicita](https://Applicita.com)
 
 My passion is to improve the .NET developer productivity & experience.<br />
@@ -23,7 +23,7 @@ I'm the author of:
     Aka _**"C# Markup 1"**_, which I initially contributed to the Microsoft Xamarin Forms product itself [in version 4.6](https://github.com/VincentH-Net/CSharpForMarkup/tree/csharpformarkup1-archive#csharpformarkup-is-incorporated-in-xamarin-forms-46)
 
 Services I can provide:
-- **Microsoft Technology Direction**<br />
+- **Microsoft Technology Direction** (Tech Lead / Practice Lead)<br />
   Define technology strategy, provide tools, practices and guidance to elevate and scale the technological delivery capabilities of software development organizations
 - **Cloud Applications**<br />
   Architect / build / modernize scalable cloud applications with Microsoft Orleans and Azure
