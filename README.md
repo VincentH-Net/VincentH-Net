@@ -1,8 +1,6 @@
 ![Header](img/header.jpg)
 
-Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm currently working as:
-- Independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
-- Technology Director at [Applicita](https://Applicita.com)
+Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm an independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
 
 My passion is to improve the .NET developer productivity & experience.<br />
 Current focus: Full stack C# with Microsoft Orleans and/or C# Markup
