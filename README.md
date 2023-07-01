@@ -1,6 +1,6 @@
 ![Header](img/header.jpg)
 
-Hi, I'm Vincent Hoogendoorn (aka VincentH.NET). I'm an independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
+Hi, I'm Vincent Hoogendoorn (aka VincentH.NET): independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET)
 
 My passion is to improve the .NET developer productivity & experience.<br />
 Current focus: Full stack C# with Microsoft Orleans and/or C# Markup
