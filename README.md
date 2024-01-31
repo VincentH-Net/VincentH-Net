@@ -4,7 +4,7 @@ Hi, I'm Vincent Hoogendoorn (aka VincentH.NET): independent Tech Lead, Coding Ar
 
 My passion is to improve the .NET developer productivity & experience.
 
-Current focus: Full stack C# with .NET Aspire, Microsoft Orleans and/or C# Markup
+Current focus: Full stack C# with .NET Aspire, Microsoft Orleans and/or C# Markup 2
 
 I got [Orleans support added to .NET Aspire](https://github.com/dotnet/aspire/issues/724) and [contributed to that](https://github.com/dotnet/aspire/pulls?q=is%3Apr+author%3AVincentH-Net+is%3Aclosed).
 
