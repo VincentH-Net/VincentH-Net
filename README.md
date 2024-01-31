@@ -8,7 +8,7 @@ Current focus: Full stack C# with .NET Aspire, Microsoft Orleans and/or C# Marku
 
 I got [Orleans support added to .NET Aspire](https://github.com/dotnet/aspire/issues/724) and [contributed to that](https://github.com/dotnet/aspire/pulls?q=is%3Apr+author%3AVincentH-Net+is%3Aclosed).
 
-I'm the author of:
+I'm also the author of:
 - [Modern.CSharp.Templates](https://github.com/Applicita/Modern.CSharp.Templates)<br />
   A toolkit of modern dotnet new templates for C# 11, .NET 7, Microsoft Orleans 7, Windows App SDK and Uno Platform
 - [Orleans.Multiservice](https://github.com/Applicita/Orleans.Multiservice)<br />
