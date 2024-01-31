@@ -27,7 +27,7 @@ Services I can provide:
 - **Microsoft Technology Direction** (Tech Lead / Practice Lead)<br />
   Define technology strategy, provide tools, practices and guidance to elevate and scale the technological delivery capabilities of software development organizations
 - **Cloud Applications**<br />
-  Architect / build / modernize scalable cloud applications with Microsoft Orleans and Azure
+  Architect / build / modernize scalable cloud applications with .NET Aspire, Microsoft Orleans and Azure
 - **Frontends**<br />
   Build / modernize full stack C# .NET applications, for browser / windows / mac / linux / iOS / android
 
