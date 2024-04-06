@@ -10,13 +10,13 @@ I got [Orleans support added to .NET Aspire](https://github.com/dotnet/aspire/is
 
 I'm also the author of:
 - [Modern.CSharp.Templates](https://github.com/Applicita/Modern.CSharp.Templates)<br />
-  A toolkit of modern dotnet new templates for C# 11, .NET 7, Microsoft Orleans 7, Windows App SDK and Uno Platform
+  A toolkit of modern dotnet new templates for C# 12, .NET 8, Microsoft Orleans 8, Windows App SDK and Uno Platform
 - [Orleans.Multiservice](https://github.com/Applicita/Orleans.Multiservice)<br />
-  Prevent microservices pain with logical service separation in a modular monolith for Microsoft Orleans 7
+  Prevent microservices pain with logical service separation in a modular monolith for Microsoft Orleans 8
 - [Orleans.Multitenant](https://github.com/Applicita/Orleans.Multitenant)<br />
-  Secure, flexible tenant separation for Microsoft Orleans 7
+  Secure, flexible tenant separation for Microsoft Orleans 8
 - [Orleans.Results](https://github.com/Applicita/Orleans.Results)<br />
-  Concise, version-tolerant result pattern implementation for Microsoft Orleans 7
+  Concise, version-tolerant result pattern implementation for Microsoft Orleans 8
 - [C# Markup 2](https://github.com/VincentH-Net/CSharpForMarkup)<br />
   Build .NET browser / native UI in declarative C#; enjoy a Flutter-like UI development experience with .NET Hot Reload and the main .NET UI frameworks (Windows App SDK, Uno Platform, WPF - coming: Maui, AvaloniaUI, possibly Blazor)
 - [Xamarin.CommunityToolkit.Markup](https://www.nuget.org/packages/Xamarin.CommunityToolkit.Markup) (also ported to [CommunityToolkit.Maui.Markup](https://www.nuget.org/packages/CommunityToolkit.Maui.Markup))<br />
