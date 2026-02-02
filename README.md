@@ -1,6 +1,6 @@
 ![Header](img/header.jpg)
 
-Hi, I'm Vincent Hoogendoorn (aka VincentH.NET): independent Tech Lead, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET). I have 20+ years of hands-on Microsoft .NET development experience.
+Hi, I'm Vincent Hoogendoorn (aka VincentH.NET): independent Agentic AI developer, Coding Architect & Software Engineer at [InnoWvate.NET](http://InnoWvate.NET). I have 20+ years of hands-on Microsoft .NET development experience.
 
 My passion is to improve the .NET developer productivity & experience.
 
@@ -24,7 +24,7 @@ I'm also the author of:
     Aka _**"C# Markup 1"**_, which I initially contributed to the Microsoft Xamarin Forms product itself [in version 4.6](https://github.com/VincentH-Net/CSharpForMarkup/tree/csharpformarkup1-archive#csharpformarkup-is-incorporated-in-xamarin-forms-46)
 
 Services I can provide:
-- **Microsoft Technology Direction** (Tech Lead / Practice Lead)<br />
+- **Microsoft Technology Direction** (Agentic AI development / Practice Lead)<br />
   Define technology strategy, provide tools, practices and guidance to elevate and scale the technological delivery capabilities of software development organizations
 - **Cloud Applications**<br />
   Architect / build / modernize scalable cloud applications with .NET Aspire, Microsoft Orleans and Azure
