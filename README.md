@@ -4,11 +4,12 @@ Hi, I'm Vincent Hoogendoorn (aka VincentH.NET): independent agentic software eng
 
 My passion is to improve the .NET developer productivity & experience.
 
-Current focus: Agentic software engineering for .NET with full stack C#, [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/), [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/) and/or [C# Markup 2](https://github.com/VincentH-Net/CSharpForMarkup)
+Current focus: [Agentic software engineering for .NET](https://github.com/VincentH-Net/dotnet-agentic-engineering) with full stack C#, [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/), [Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/) and/or [C# Markup 2](https://github.com/VincentH-Net/CSharpForMarkup)
 
 I got [Orleans support added to .NET Aspire](https://github.com/dotnet/aspire/issues/724) and [contributed to that](https://github.com/dotnet/aspire/pulls?q=is%3Apr+author%3AVincentH-Net+is%3Aclosed).
 
-I'm also the author of:
+I'm the author of:
+- [.NET Agentic Engineering](https://github.com/VincentH-Net/dotnet-agentic-engineering): `dnx agentic.check`
 - [Modern.CSharp.Templates](https://github.com/VincentH-Net/Modern.CSharp.Templates)<br />
   A toolkit of modern dotnet new templates for C# 14, .NET 10, Microsoft Orleans 10, Windows App SDK and Uno Platform
 - [Orleans.Multiservice](https://github.com/VincentH-Net/Orleans.Multiservice)<br />
