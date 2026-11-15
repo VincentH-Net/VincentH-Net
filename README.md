@@ -9,7 +9,8 @@ Current focus: [Agentic software engineering for .NET](https://github.com/Vincen
 I got [Orleans support added to .NET Aspire](https://github.com/dotnet/aspire/issues/724) and [contributed to that](https://github.com/dotnet/aspire/pulls?q=is%3Apr+author%3AVincentH-Net+is%3Aclosed).
 
 I'm the author of:
-- [.NET Agentic Engineering](https://github.com/VincentH-Net/dotnet-agentic-engineering): `dnx agentic.check`
+- [.NET Agentic Engineering](https://github.com/VincentH-Net/dotnet-agentic-engineering)<br />
+  Try it: just type `dnx agentic.check` in the root of a repo that uses .NET based technologies
 - [Modern.CSharp.Templates](https://github.com/VincentH-Net/Modern.CSharp.Templates)<br />
   A toolkit of modern dotnet new templates for C# 14, .NET 10, Microsoft Orleans 10, Windows App SDK and Uno Platform
 - [Orleans.Multiservice](https://github.com/VincentH-Net/Orleans.Multiservice)<br />
@@ -25,11 +26,12 @@ I'm the author of:
     Aka _**"C# Markup 1"**_, which I initially contributed to the Microsoft Xamarin Forms product itself [in version 4.6](https://github.com/VincentH-Net/CSharpForMarkup/tree/csharpformarkup1-archive#csharpformarkup-is-incorporated-in-xamarin-forms-46)
 
 Services I can provide:
+- **.NET Agentic Engineering Capacity**<br />
+  Reserve agentic engineering production capacity consisting of InnoWvate.NET compute, [tools, skills, directives](https://github.com/VincentH-Net/dotnet-agentic-engineering) and frontier model usage, combined with my personal oversight and judgment.
+  Incentivizes sustained agentic acceleration without compromising quality - not _just hours_, but combined production means capacity _including hours_
 - **Microsoft Technology Direction** (Agentic AI development / Practice Lead)<br />
   Define technology strategy, provide tools, practices and guidance to elevate and scale the technological delivery capabilities of software development organizations
 - **Cloud Applications**<br />
   Architect / build / modernize scalable cloud applications with .NET Aspire, Microsoft Orleans and Azure
 - **Frontends**<br />
   Build / modernize full stack C# .NET applications, for browser / windows / mac / linux / iOS / android
-
-
